@@ -15,3 +15,5 @@ Pythons Pickle package is used to create an api of the model, which is used to d
 The trained model is deployed along with the OpenCV , which runs live camera feed from the web camera
 
 The application classifies the image , at every frame of the live video feed from the web camera
+
+The application is also capable of detecting objects using color (in this case : blue)
